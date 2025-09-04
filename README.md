@@ -15,5 +15,7 @@ Static website that feature a systematic, framework-based methodology to transfo
 - All RAW content available
 - Need to arrange content
 
+## Tech Stack
 
-
+- Hugo with Hextra Theme
+- Gemini, ChatGPT, Claude for chunking and distilling content. 
