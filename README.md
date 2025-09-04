@@ -1,7 +1,5 @@
 # Bio GO (Preview Alpha Stage)
 
-- Demo Site [GitHub Codespaces](https://github.com/codespaces) 
-
 Static website that feature a systematic, framework-based methodology to transform dense biology textbook content into a series of granular, digestible mini-lessons for a digital learning platform. By analyzing the curriculum's learning standards, cognitive taxonomies, and sample exam questions.  This ensures the material is not only easy for Gen Z learners to understand but is also structured precisely to meet exam requirements.
 
 ## What Makes This Different?

@@ -1,5 +1,5 @@
 # Hugo configuration file
-title: My Site
+title: Biology KSSM Mini
 
 # import hextra as module
 module:
@@ -24,23 +24,11 @@ menu:
     - name: About
       pageRef: /about
       weight: 2
-    - name: Contact ↗
-      url: "https://github.com/imfing"
-      weight: 3
     - name: Search
-      weight: 4
+      weight: 3
       params:
         type: search
-    - name: GitHub
-      weight: 5
-      url: "https://github.com/imfing/hextra-starter-template"
-      params:
-        icon: github
-    - name: Twitter
-      weight: 6
-      url: "https://twitter.com/"
-      params:
-        icon: x-twitter
+
 
 params:
   navbar:
@@ -54,3 +42,13 @@ params:
   editURL:
     enable: true
     base: "https://github.com/imfing/hextra-starter-template/edit/main/content"
+    
+  search:
+    enable: true
+    type: flexsearch
+    flexsearch:
+      tokenize: full
+ 
+  theme:
+    default: system # You can also use 'light' or 'dark'
+    displayToggle: true

@@ -1,18 +1,13 @@
 ---
-title: Documentation
-next: first-page
+title: Introduction
+
 ---
 
-This is a demo of the theme's documentation layout.
+Please select the chapters or lesson from the left menu.
 
-## Hello, World!
+You also can also use the search function on the top right corner to directly search the content.
 
-```go {filename="main.go"}
-package main
 
-import "fmt"
 
-func main() {
-    fmt.Println("Hello, World!")
-}
-```
+[content/docs/_index.md]
+
